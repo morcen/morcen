@@ -35,6 +35,11 @@ I have led small teams, owned delivery, and built systems from zero to productio
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
+
+![Python](https://img.shields.io/badge/Python-3d72a0?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1d9b8e?style=flat-square&logo=fastapi&logoColor=white)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React.js-20d9ff?style=flat-square&logo=react&logoColor=white)
@@ -48,14 +53,17 @@ I have led small teams, owned delivery, and built systems from zero to productio
 ![MySQL](https://img.shields.io/badge/MySQL-0d5266?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-2496ED?style=flat-square&logo=google-cloud&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 **Tooling**
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-FF6B6B?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Claude  AI](https://img.shields.io/badge/Claude-dd7b5d?style=flat-square&logo=claude&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
