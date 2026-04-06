@@ -14,7 +14,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Full-Stack Engineer based in the Philippines with a passion for building clean, developer-friendly tools and open-source packages — particularly in the Laravel ecosystem. I love crafting things that make other developers' lives easier.
+You are looking at a developer who has spent 15+ years building web applications and more than a decade working deeply with PHP and Python.
+
+I focus on:
+- SaaS platforms and internal tools
+- API design and integrations
+- Performance and scalability
+- Developer experience and clean architecture
+
+I have led small teams, owned delivery, and built systems from zero to production.
+
+**If you need someone who can shape the product, write the code, and help the team ship with confidence, I'd love to hear what you're building.**
 
 ---
 
