@@ -37,6 +37,7 @@ I have led small teams, owned delivery, and built systems from zero to productio
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React.js-20d9ff?style=flat-square&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -44,6 +45,7 @@ I have led small teams, owned delivery, and built systems from zero to productio
 
 **Databases & Infrastructure**
 
+![MySQL](https://img.shields.io/badge/MySQL-0d5266?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
