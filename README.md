@@ -83,6 +83,20 @@ composer require morcen/passage
 
 ---
 
+### 🔭 [probe](https://github.com/morcen/probe) — See better than a telescope | Debugging and Observability for Laravel
+> PHP
+
+A debugging and observability package for Laravel. Records requests, exceptions, queries, jobs, cache operations, and scheduled tasks, then surfaces them in a real-time dashboard.
+
+```bash
+composer require morcen/probe
+```
+
+[![Packagist](https://img.shields.io/packagist/v/morcen/probe?style=flat-square)](https://packagist.org/packages/morcen/probe)
+[![Downloads](https://img.shields.io/packagist/dt/morcen/probe?style=flat-square)](https://packagist.org/packages/morcen/probe)
+
+---
+
 ### 🧰 [omni](https://github.com/morcen/omni) — The Artisan UI Dashboard for Laravel
 > Blade · PHP
 
