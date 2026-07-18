@@ -84,7 +84,7 @@ composer require morcen/passage
 ---
 
 ### 🔭 [probe](https://github.com/morcen/probe) — See better than a telescope | Debugging and Observability for Laravel
-> PHP
+> ⭐ 1 · PHP
 
 A debugging and observability package for Laravel. Records requests, exceptions, queries, jobs, cache operations, and scheduled tasks, then surfaces them in a real-time dashboard.
 
@@ -98,7 +98,7 @@ composer require morcen/probe
 ---
 
 ### 🧰 [omni](https://github.com/morcen/omni) — The Artisan UI Dashboard for Laravel
-> Blade · PHP
+> ⭐ 1 · Blade · PHP
 
 A lightweight in-app browser dashboard for Laravel that gives you a visual interface into your app's environment info, routes, migrations, scheduled tasks, and a `make:model` UI — without jumping between multiple Artisan commands. Mounted at `/omni` and protected by a configurable gate.
 
@@ -111,7 +111,7 @@ composer require morcen/laravel-omni
 ---
 
 ### 🪝 [hooketh](https://github.com/morcen/hooketh) — Webhook Management Platform
-> Vue.js · Laravel · PostgreSQL · Redis
+> ⭐ 2 · Vue.js · Laravel · PostgreSQL · Redis
 
 An open-source, enterprise-grade webhook management platform built with Laravel and Vue.js. Register endpoints, send events, track deliveries, replay failed requests, and monitor everything through a clean API-first dashboard. Fully Dockerized and built for scale.
 
