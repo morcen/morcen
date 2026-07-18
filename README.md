@@ -118,14 +118,14 @@ An open-source, enterprise-grade webhook management platform built with Laravel 
 ---
 
 ### ✅ [redo](https://github.com/morcen/redo) — Daily Todo List
-> Vue
+> ⭐ 1 · Vue
 
 A simple, clean daily todo list app built with Vue.js.
 
 ---
 
 ### 🤖 [vscode-autopr](https://github.com/morcen/vscode-autopr) — AutoPR: Generate Commit Messages
-> TypeScript · VS Code Extension
+> ⭐ 2 · TypeScript · VS Code Extension
 
 A VS Code extension that auto-generates commit messages to streamline your pull request workflow.
 
