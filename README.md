@@ -70,7 +70,7 @@ I have led small teams, owned delivery, and built systems from zero to productio
 ## 🚀 Open Source Projects
 
 ### 🔌 [passage](https://github.com/morcen/passage) — Lightweight API Proxy Gateway for Laravel
-> ⭐ 6 · 🍴 5 · PHP
+> ⭐ 60 · 🍴 7 · PHP
 
 A Laravel-native API gateway that lets you define proxy routes using a familiar routing syntax. Supports per-route request/response transformation, auth helpers (Bearer, API key, HMAC), retry logic, response caching, streaming, and Laravel event hooks. Perfect for building a controlled proxy layer in front of external APIs without a full gateway product.
 
