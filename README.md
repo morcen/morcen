@@ -22,7 +22,7 @@ I focus on:
 - Performance and scalability
 - Developer experience and clean architecture
 
-I have led small teams, owned delivery, and built systems from zero to production.
+I have led big and small teams, owned delivery, and built systems from zero to production.
 
 **If you need someone who can shape the product, write the code, and help the team ship with confidence, I'd love to hear what you're building.**
 
